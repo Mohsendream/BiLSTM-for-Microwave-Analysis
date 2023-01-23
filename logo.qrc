@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>SIW.PNG</file>
+  </qresource>
+</RCC>
